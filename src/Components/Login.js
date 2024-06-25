@@ -13,7 +13,7 @@ const Login = () => {
 
     const mockToken = "1df99a5f7b6dc373b2c7c3278b82312ac0b30a25a1d3aef06fab6d481625c700";
 
-      // Static admin credentials (for demo purposes)
+   
       
       const adminPassword = 'admin/admin';
 
